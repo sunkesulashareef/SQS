@@ -1,0 +1,4 @@
+com\aws\test\QueueReceiverTest.class
+com\aws\sqs\QueueReceiver.class
+com\aws\sqs\QueueSender.class
+com\aws\test\QueueSenderTest.class
